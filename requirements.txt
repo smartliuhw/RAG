@@ -1,0 +1,6 @@
+chromadb
+ipython
+llama_index
+transformers
+torch
+langchain
