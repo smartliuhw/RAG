@@ -4,3 +4,5 @@ llama_index
 transformers
 torch
 langchain
+datasets
+sentence_transformers
